@@ -1,6 +1,6 @@
 # TextFlow - Advanced Text Editor
 
-A comprehensive, placement-ready text editor built with C++ and Python, featuring advanced data structures, NLP integration, compression, encryption, and a modern terminal UI.
+A comprehensive, text editor built with C++ and Python, featuring advanced data structures, NLP integration, compression, encryption, and a modern terminal UI.
 
 ## 🚀 Features
 
