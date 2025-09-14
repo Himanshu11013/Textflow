@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/ironman/Downloads/ProjectDSA /TextFlow/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ironman/Downloads/ProjectDSA /TextFlow/include\" -g -std=gnu++17 -arch arm64 -Wall -Wextra -O2 -o CMakeFiles/textflow.dir/src/main.cpp.o -c \"/Users/ironman/Downloads/ProjectDSA /TextFlow/src/main.cpp\"",
+  "file": "/Users/ironman/Downloads/ProjectDSA /TextFlow/src/main.cpp",
+  "output": "CMakeFiles/textflow.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/ironman/Downloads/ProjectDSA /TextFlow/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ironman/Downloads/ProjectDSA /TextFlow/include\" -g -std=gnu++17 -arch arm64 -Wall -Wextra -O2 -o CMakeFiles/textflow.dir/src/avl_tree.cpp.o -c \"/Users/ironman/Downloads/ProjectDSA /TextFlow/src/avl_tree.cpp\"",
+  "file": "/Users/ironman/Downloads/ProjectDSA /TextFlow/src/avl_tree.cpp",
+  "output": "CMakeFiles/textflow.dir/src/avl_tree.cpp.o"
+},
+{
+  "directory": "/Users/ironman/Downloads/ProjectDSA /TextFlow/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ironman/Downloads/ProjectDSA /TextFlow/include\" -g -std=gnu++17 -arch arm64 -Wall -Wextra -O2 -o CMakeFiles/textflow.dir/src/text_editor.cpp.o -c \"/Users/ironman/Downloads/ProjectDSA /TextFlow/src/text_editor.cpp\"",
+  "file": "/Users/ironman/Downloads/ProjectDSA /TextFlow/src/text_editor.cpp",
+  "output": "CMakeFiles/textflow.dir/src/text_editor.cpp.o"
+},
+{
+  "directory": "/Users/ironman/Downloads/ProjectDSA /TextFlow/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ironman/Downloads/ProjectDSA /TextFlow/include\" -g -std=gnu++17 -arch arm64 -Wall -Wextra -O2 -o CMakeFiles/textflow.dir/src/search_replace.cpp.o -c \"/Users/ironman/Downloads/ProjectDSA /TextFlow/src/search_replace.cpp\"",
+  "file": "/Users/ironman/Downloads/ProjectDSA /TextFlow/src/search_replace.cpp",
+  "output": "CMakeFiles/textflow.dir/src/search_replace.cpp.o"
+},
+{
+  "directory": "/Users/ironman/Downloads/ProjectDSA /TextFlow/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ironman/Downloads/ProjectDSA /TextFlow/include\" -g -std=gnu++17 -arch arm64 -Wall -Wextra -O2 -o CMakeFiles/textflow.dir/src/compression.cpp.o -c \"/Users/ironman/Downloads/ProjectDSA /TextFlow/src/compression.cpp\"",
+  "file": "/Users/ironman/Downloads/ProjectDSA /TextFlow/src/compression.cpp",
+  "output": "CMakeFiles/textflow.dir/src/compression.cpp.o"
+},
+{
+  "directory": "/Users/ironman/Downloads/ProjectDSA /TextFlow/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ironman/Downloads/ProjectDSA /TextFlow/include\" -g -std=gnu++17 -arch arm64 -Wall -Wextra -O2 -o CMakeFiles/textflow.dir/src/better_ui.cpp.o -c \"/Users/ironman/Downloads/ProjectDSA /TextFlow/src/better_ui.cpp\"",
+  "file": "/Users/ironman/Downloads/ProjectDSA /TextFlow/src/better_ui.cpp",
+  "output": "CMakeFiles/textflow.dir/src/better_ui.cpp.o"
+}
+]

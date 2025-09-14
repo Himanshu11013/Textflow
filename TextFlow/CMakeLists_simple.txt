@@ -1,0 +1,44 @@
+cmake_minimum_required(VERSION 3.16)
+project(TextFlow)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Find required packages
+find_package(PkgConfig REQUIRED)
+pkg_check_modules(NCURSES REQUIRED ncurses)
+
+# Include directories
+include_directories(include)
+include_directories(${NCURSES_INCLUDE_DIRS})
+
+# Add compiler flags
+add_compile_options(-Wall -Wextra -O2)
+
+# Source files (simplified - no encryption for now)
+set(SOURCES
+    src/main.cpp
+    src/avl_tree.cpp
+    src/text_editor.cpp
+    src/search_replace.cpp
+    src/compression.cpp
+    src/simple_ui.cpp
+)
+
+# Header files
+set(HEADERS
+    include/avl_tree.h
+    include/text_editor.h
+    include/search_replace.h
+    include/compression.h
+    include/simple_ui.h
+)
+
+# Create executable
+add_executable(textflow ${SOURCES} ${HEADERS})
+
+# Link libraries
+target_link_libraries(textflow ${NCURSES_LIBRARIES})
+
+# Installation
+install(TARGETS textflow DESTINATION bin)
