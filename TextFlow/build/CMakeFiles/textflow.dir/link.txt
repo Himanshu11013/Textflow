@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/textflow.dir/src/main.cpp.o CMakeFiles/textflow.dir/src/avl_tree.cpp.o CMakeFiles/textflow.dir/src/text_editor.cpp.o CMakeFiles/textflow.dir/src/search_replace.cpp.o CMakeFiles/textflow.dir/src/compression.cpp.o CMakeFiles/textflow.dir/src/better_ui.cpp.o -o textflow  -lncurses

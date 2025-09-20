@@ -1,7 +1,0 @@
-/Users/ironman/Downloads/ProjectDSA /TextFlow/build/CMakeFiles/textflow.dir
-/Users/ironman/Downloads/ProjectDSA /TextFlow/build/CMakeFiles/edit_cache.dir
-/Users/ironman/Downloads/ProjectDSA /TextFlow/build/CMakeFiles/rebuild_cache.dir
-/Users/ironman/Downloads/ProjectDSA /TextFlow/build/CMakeFiles/list_install_components.dir
-/Users/ironman/Downloads/ProjectDSA /TextFlow/build/CMakeFiles/install.dir
-/Users/ironman/Downloads/ProjectDSA /TextFlow/build/CMakeFiles/install/local.dir
-/Users/ironman/Downloads/ProjectDSA /TextFlow/build/CMakeFiles/install/strip.dir
