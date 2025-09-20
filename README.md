@@ -48,11 +48,6 @@ text
 - **NLP Services**: Grammar checking, spell checking, text summarization, and readability scoring
 - **Performance Tracking**: Operations per second, tree height, and balance factor monitoring
 
-## Limitations
-
-- The AVL tree implementation is simplified and may not be as efficient as production-grade text editors
-- NLP features are basic and may not match commercial grammar checkers
-- Large files may experience performance issues due to Python's GIL and GUI threading
 
 ## Future Enhancements
 
